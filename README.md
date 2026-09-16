@@ -9,7 +9,7 @@ The project uses an **XGBoost Regression model** and provides an interactive, pr
 ## 🌐 Live Demo
 
 🔗 **Web Application:**  
-https://your-streamlit-app-url.streamlit.app/
+https://xgboostproject-amqqgnffgmguovixeqkeot.streamlit.app/
 
 > Replace the URL above with your deployed Streamlit application URL.
 
